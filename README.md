@@ -15,3 +15,7 @@ Below is my lesson plan code explanation video that showcases the use of repeats
 
 https://github.com/lbryton/eds134/assets/97479550/d835ed48-2479-4f81-bb35-e914e559acb9
 
+Below is my lesson plan code explanation video that showcases the use of nested loops (link [here to video](nested.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/2b0a60a0-6cef-4e60-b4b7-1618c5b47bd5
+
