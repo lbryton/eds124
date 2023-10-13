@@ -19,3 +19,7 @@ Below is my lesson plan code explanation video that showcases the use of nested 
 
 https://github.com/lbryton/eds124/assets/97479550/2b0a60a0-6cef-4e60-b4b7-1618c5b47bd5
 
+Below is my lesson plan code explanation video that showcases the use of events and broadcasting (link [here to video](monkey_event.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/b7dc6970-032c-48e4-99f5-e2b821b481f1
+
