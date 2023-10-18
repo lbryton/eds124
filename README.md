@@ -23,7 +23,11 @@ Below is my lesson plan code explanation video that showcases the use of events 
 
 https://github.com/lbryton/eds124/assets/97479550/b7dc6970-032c-48e4-99f5-e2b821b481f1
 
-Below is my lesson plan code explanation video that showcases the use of conditional repeats (link [here to video](monkey_event.mp4) also - you will have to download the file):
+Below is my lesson plan code explanation video that showcases the use of events and broadcasting (link [here to video](variables.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/0ab5349a-7b07-4409-80f9-dc938e6f1827
+
+Below is my lesson plan code explanation video that showcases the use of conditional repeats (link [here to video](cond_repeat.mp4) also - you will have to download the file):
 
 https://github.com/lbryton/eds124/assets/97479550/6a1f89cd-e887-4bc2-bf13-773eb9b1840c
 
