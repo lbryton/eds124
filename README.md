@@ -23,7 +23,7 @@ Below is my lesson plan code explanation video that showcases the use of events 
 
 https://github.com/lbryton/eds124/assets/97479550/b7dc6970-032c-48e4-99f5-e2b821b481f1
 
-Below is my lesson plan code explanation video that showcases the use of events and broadcasting (link [here to video](variables.mp4) also - you will have to download the file):
+Below is my lesson plan code explanation video that showcases the use of variables (link [here to video](variables.mp4) also - you will have to download the file):
 
 https://github.com/lbryton/eds124/assets/97479550/dd654459-967c-4d05-8a99-c9420c07ab11
 
