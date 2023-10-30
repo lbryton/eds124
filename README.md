@@ -31,3 +31,7 @@ Below is my lesson plan code explanation video that showcases the use of conditi
 
 https://github.com/lbryton/eds124/assets/97479550/6a1f89cd-e887-4bc2-bf13-773eb9b1840c
 
+Below is my lesson plan code explanation video that showcases the use of if-else statements (link [here to video](if-else.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/0e148709-1472-46b5-baa0-c7bc3585167e
+
