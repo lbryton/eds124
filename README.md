@@ -38,3 +38,9 @@ https://github.com/lbryton/eds124/assets/97479550/33fbb3a1-f082-4ff3-8ffb-d50ed8
 Below is my lesson plan code explanation video that showcases the use of nested if-else statements (link [here to video](nested-if-else.mp4) also - you will have to download the file):
 
 https://github.com/lbryton/eds124/assets/97479550/d868c52b-34be-42ba-abc9-17059fe3e9a0
+
+Below is my lesson plan code explanation video that showcases the use of nested if-else statements (link [here to video](compund_cond.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/71d0d1ef-f448-4775-8c7d-bbf73a2a13ac
+
+
