@@ -43,4 +43,7 @@ Below is my lesson plan code explanation video that showcases the use of nested 
 
 https://github.com/lbryton/eds124/assets/97479550/71d0d1ef-f448-4775-8c7d-bbf73a2a13ac
 
+Below is my lesson plan code explanation video that showcases the use of nested if-else statements (link [here to video](abstraction.mp4) also - you will have to download the file):
+
+https://github.com/lbryton/eds124/assets/97479550/5e3d412a-b496-4b0f-beb8-1dbf0fa97d65
 
